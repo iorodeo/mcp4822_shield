@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPCB (2011-aug-04)-testing date = Sun 23 Sep 2012 04:30:50 PM PDT
+
+BeginCmp
+TimeStamp = /505F7BB4;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F8CCA;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F7BC3;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = CP2;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F8CC9;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = CP2;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F8BC5;
+Reference = C5;
+ValeurCmp = 1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F8CC5;
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F8BC6;
+Reference = C7;
+ValeurCmp = 1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F8CC4;
+Reference = C8;
+ValeurCmp = 1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F8D44;
+Reference = P1;
+ValeurCmp = CONN_13;
+IdModule  = CONN_13;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F91C4;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F7292;
+Reference = U1;
+ValeurCmp = MCP48XX;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /505F8CCB;
+Reference = U2;
+ValeurCmp = MCP48XX;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe

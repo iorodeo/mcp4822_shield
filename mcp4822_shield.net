@@ -1,0 +1,142 @@
+# EESchema Netlist Version 1.1 created  Sun 23 Sep 2012 04:30:50 PM PDT
+(
+ ( /505F7BB4 C2 C1 0.1uF
+  ( 1 /5V )
+  ( 2 GND )
+ )
+ ( /505F8CCA C2 C2 0.1uF
+  ( 1 /5V )
+  ( 2 GND )
+ )
+ ( /505F7BC3 CP2 C3 10uF
+  ( 1 /5V )
+  ( 2 GND )
+ )
+ ( /505F8CC9 CP2 C4 10uF
+  ( 1 /5V )
+  ( 2 GND )
+ )
+ ( /505F8BC5 C2 C5 1uF
+  ( 1 /VO_A0 )
+  ( 2 GND )
+ )
+ ( /505F8CC5 C2 C6 1uF
+  ( 1 /VO_A1 )
+  ( 2 GND )
+ )
+ ( /505F8BC6 C2 C7 1uF
+  ( 1 /VO_B0 )
+  ( 2 GND )
+ )
+ ( /505F8CC4 C2 C8 1uF
+  ( 1 /VO_B1 )
+  ( 2 GND )
+ )
+ ( /505F8D44 CONN_13 P1 CONN_13
+  ( 1 /VO_A0 )
+  ( 2 /VO_B0 )
+  ( 3 /VO_A1 )
+  ( 4 /VO_B1 )
+  ( 5 /A0 )
+  ( 6 /A1 )
+  ( 7 /A2 )
+  ( 8 /A3 )
+  ( 9 /D2 )
+  ( 10 /D3 )
+  ( 11 /D5 )
+  ( 12 /D6 )
+  ( 13 GND )
+ )
+ ( /505F91C4 ARDUINO_SHIELD SHIELD1 ARDUINO_SHIELD
+  ( 0 ? )
+  ( 1 ? )
+  ( 2 /D2 )
+  ( 3 /D3 )
+  ( 3V3 ? )
+  ( 4 /LDAC )
+  ( 5 /D5 )
+  ( 5V /5V )
+  ( 6 /D6 )
+  ( 7 /CS1 )
+  ( 8 ? )
+  ( 9 /CS0 )
+  ( 10 ? )
+  ( 11 /MOSI )
+  ( 12 ? )
+  ( 13 /SCK )
+  ( AD0 /A0 )
+  ( AD1 /A1 )
+  ( AD2 /A2 )
+  ( AD3 /A3 )
+  ( AD4 ? )
+  ( AD5 ? )
+  ( AREF ? )
+  ( GND1 GND )
+  ( GND2 ? )
+  ( GND3 ? )
+  ( RST ? )
+  ( V_IN ? )
+ )
+ ( /505F7292 DIP-8__300 U1 MCP48XX
+  ( 1 /5V )
+  ( 2 /CS0 )
+  ( 3 /SCK )
+  ( 4 /MOSI )
+  ( 5 /LDAC )
+  ( 6 /VO_B0 )
+  ( 7 GND )
+  ( 8 /VO_A0 )
+ )
+ ( /505F8CCB DIP-8__300 U2 MCP48XX
+  ( 1 /5V )
+  ( 2 /CS1 )
+  ( 3 /SCK )
+  ( 4 /MOSI )
+  ( 5 /LDAC )
+  ( 6 /VO_B1 )
+  ( 7 GND )
+  ( 8 /VO_A1 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ CP*
+ SM*
+$endlist
+$component C4
+ CP*
+ SM*
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$endfootprintlist
+}
