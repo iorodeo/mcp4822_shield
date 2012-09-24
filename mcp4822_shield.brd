@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Mon 24 Sep 2012 11:43:22 AM PDT
+PCBNEW-BOARD Version 1 date Mon 24 Sep 2012 02:40:59 PM PDT
 
 # Created by Pcbnew(2011-aug-04)-testing
 
@@ -1032,12 +1032,12 @@ Po 19550 27600 400 600 80 900
 De 21 1 0 Normal C
 $EndTEXTPCB
 $TEXTPCB
-Te "TX"
+Te "RX"
 Po 31500 11250 400 600 80 900
 De 21 1 0 Normal C
 $EndTEXTPCB
 $TEXTPCB
-Te "RX"
+Te "TX"
 Po 30550 11250 400 600 80 900
 De 21 1 0 Normal C
 $EndTEXTPCB
